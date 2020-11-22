@@ -10,4 +10,5 @@ Infrastructe as Code is the new paradigm in software development that's killing 
 The ability to have your server or platform deployed like a gmail account and customized like a car.
 
 This project is an intro to the testing of the backend
-https://youtu.be/lkWwPKqoJfo
+
+Demo of the test process - https://youtu.be/lkWwPKqoJfo
